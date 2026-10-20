@@ -1,3 +1,1 @@
-########################################
-# Projet d'initiation à git et ansible #
-########################################
+# Projet d'initiation à git et ansible
